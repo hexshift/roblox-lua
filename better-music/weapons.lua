@@ -2,7 +2,7 @@
     @author - larry (@hexshift)
     @func   - get all weapons
     @game   - https://www.roblox.com/games/18999776880/Better-Music
-]]
+]]--
 
 local weaponlist = {}
 local weaponfolder = game:GetService('ReplicatedStorage'):WaitForChild('Weapons')
